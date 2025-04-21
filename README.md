@@ -51,6 +51,7 @@ sudo ./uninstall.sh	                      Remove ChameleonGRUB
       <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/5.png" width="400px"></td>
       <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/7.png" width="400px"></td>
       <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/9.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/11.png" width="400px"></td>
     </tr>
     <!-- Second Row -->
     <tr>
