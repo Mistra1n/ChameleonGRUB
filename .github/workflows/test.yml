@@ -1,4 +1,4 @@
-name: Test GRUB Shuffler
+name: Test ChameleonGRUB
 
 on: [push, pull_request]
 
