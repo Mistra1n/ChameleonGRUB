@@ -40,28 +40,31 @@ https://gnome-look.org/123	              Install new theme
 sudo ./uninstall.sh	                      Remove ChameleonGRUB
 ```
 
-## 📸 Theme Gallery
-
-<div align="center">
-  <table>
-    <!-- First Row -->
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/1.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/3.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/5.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/7.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/9.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/11.png" width="400px"></td>
-    </tr>
-    <!-- Second Row -->
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/2.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/4.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/6.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/8.png" width="400px"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/10.png" width="400px"></td>
-    </tr>
-  </table>
+## 🌟 Theme Previews
+  <div class="big-preview">
+    <table>
+      <!-- First Row -->
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/1.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/2.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/3.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/4.png"></td>
+      </tr>
+      <!-- Second Row -->
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/5.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/6.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/7.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/8.png"></td>
+      </tr>
+      <!-- Third Row -->
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/9.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/10.png"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/11.png"></td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ## ⚙️ Configuration
