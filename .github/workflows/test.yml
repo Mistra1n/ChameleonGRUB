@@ -14,8 +14,8 @@ jobs:
       - name: Test installation
         run: |
           sudo ./install.sh
-          sudo ./shuffle-grub-theme --list
-          sudo ./shuffle-grub-theme --preview
+          sudo ./ChameleonGRUB --list
+          sudo ./ChameleonGRUB --preview
       - name: Verify uninstall
         run: |
           sudo ./uninstall.sh
