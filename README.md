@@ -41,7 +41,27 @@ sudo ./uninstall.sh	                      Remove ChameleonGRUB
 ```
 
 ## 📸 Theme Gallery
-Cyberpunk	Tux	Minimal
+
+<div align="center">
+  <table>
+    <!-- First Row -->
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/1.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/3.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/5.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/7.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/9.png" width="400px"></td>
+    </tr>
+    <!-- Second Row -->
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/2.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/4.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/6.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/8.png" width="400px"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Mistra1n/ChameleonGRUB/main/screenshots/10.png" width="400px"></td>
+    </tr>
+  </table>
+</div>
 
 ## ⚙️ Configuration
 
